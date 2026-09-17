@@ -1,0 +1,25 @@
+LAB 01 - Running PHP Using XAMPP
+
+Objectives:
+1. Open XAMPP Control Panel.
+2. Start Apache.
+3. Save a PHP file inside htdocs.
+4. Run the PHP file using localhost.
+
+Instructions:
+1. Open XAMPP Control Panel.
+2. Click Start beside Apache.
+3. Copy this folder to C:\xampp\htdocs.
+4. Open your browser.
+5. Type: http://localhost/lab_01_xampp_setup/index.php
+
+Expected Output:
+The browser should display a simple PHP page.
+
+Student Activity:
+Change the displayed text in index.php and refresh the browser.
+
+Submission:
+Submit a screenshot of the browser output.
+
+**Note:** The instructor will provide the Google Drive repository link for submitting your work during class hours.
