@@ -1,29 +1,25 @@
-LAB 02 - Echo and Print in PHP
+LAB 01 - Running PHP Using XAMPP
 
 Objectives:
-1. Use echo to display output.
-2. Use print to display output.
-3. Display the value of a PHP variable.
-4. Use <br/> to break lines in the browser.
+1. Open XAMPP Control Panel.
+2. Start Apache.
+3. Save a PHP file inside htdocs.
+4. Run the PHP file using localhost.
 
 Instructions:
-1. Copy this folder to C:\xampp\htdocs.
-2. Start Apache in XAMPP.
-3. Open: http://localhost/lab_02_php_output/index.php
-4. Study the output produced by echo and print.
+1. Open XAMPP Control Panel.
+2. Click Start beside Apache.
+3. Copy this folder to C:\xampp\htdocs.
+4. Open your browser.
+5. Type: http://localhost/lab_01_xampp_setup/index.php
 
 Expected Output:
-Hello, world
-This is PHP programming.
-Hello, world
-This is PHP programming.
-Juan Dela Cruz
-Juan Dela Cruz
+The browser should display a simple PHP page.
 
 Student Activity:
-Create another variable named $course and display it using echo and print.
+Change the displayed text in index.php and refresh the browser.
 
 Submission:
-Submit the PHP file and screenshot of the output.
+Submit a screenshot of the browser output.
 
 **Note:** The instructor will provide the Google Drive repository link for submitting your work during class hours.

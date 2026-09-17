@@ -1,32 +1,33 @@
-LAB 02 CHALLENGE ADD-ONS - PHP Output and Bootstrap 5.3 Redesign
+LAB 01 CHALLENGE ADD-ONS - XAMPP Setup and Tailwind CSS Redesign
 
 Complete the 8 challenge add-ons below after finishing the tutorial activity.
 
-1. Student Variables
-   Create variables for your full name, course, year level, and section.
+1. Custom Welcome Message
+   Change the page output to display your full name and section.
 
-2. Echo Output
-   Display all student variables using echo.
+2. Localhost Proof
+   Add a second line that displays: This page is running from localhost.
 
-3. Print Output
-   Display the same student variables using print.
+3. Course Identification
+   Add another line that displays the course code and subject title.
 
-4. Label Each Value
-   Add clear labels before each value, such as Name:, Course:, Year Level:, and Section:.
+4. Date Display
+   Use PHP to display the current date using the date() function.
 
-5. Line Break Formatting
-   Use <br/> tags so each label and value appears on a separate line.
+5. Multiple Echo Statements
+   Use at least three separate echo statements in index.php.
 
-6. Sentence Output
-   Create one complete sentence using variables, then display it with echo.
+6. Browser Line Breaks
+   Use <br/> tags so each message appears on a separate line in the browser.
 
-7. Bootstrap 5.3 Alternative Redesign
-   Redesign the PHP output page using Bootstrap 5.3 instead of Tailwind CSS. Use Bootstrap cards, badges, alerts, and tables to present PHP variables and output clearly.
+7. Tailwind CSS Redesign
+   Redesign the PHP output page using Tailwind CSS utility classes. Add a styled page container, readable text, spacing, background color, and at least one styled heading.
 
-8. Output Comparison
-   Add a PHP comment explaining one difference you observed between echo and print.
+8. Screenshot Evidence
+   Submit a screenshot showing the browser URL and the redesigned final output.
 
 Submission:
 Submit the edited index.php file and a screenshot of the browser output.
 
 **Note:** The instructor will provide the Google Drive repository link for submitting your work during class hours.
+
